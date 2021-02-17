@@ -14,7 +14,7 @@ File */data/categories.csv* contains category classification of food items.
 
 ## The description of the code
 
-Although the transactionn data cannot be made publicly available, data processing scripts and notebooks containing analysis and plotting are available in */code* folder.
+Although the transactional data cannot be made publicly available, data processing scripts and notebooks containing analysis and plotting are available in the */code* folder.
 
 ## Reference
 
