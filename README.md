@@ -6,7 +6,15 @@ This repository contains publicly available data and code for paper "Formation o
 
 ### 1. Healthiness annotations.
 
-### 2. Food item ctegorization.
+In file */data/healthiness_annotations.xlsx*, the annotations of healthiness are available (0: likely to be healthy, 1: likely to be unhealthy, 2: unclassifiable).
+
+### 2. Food item categorization.
+
+File */data/categories.csv* contains category classification of food items.
+
+## The description of the code
+
+Although the transactional data cannot be made publicly available, data processing scripts and notebooks containing analysis and plotting are available in the */code* folder.
 
 ## Reference
 
