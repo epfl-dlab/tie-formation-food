@@ -12,6 +12,10 @@ In file */data/healthiness_annotations.xlsx*, the annotations of healthiness are
 
 File */data/categories.csv* contains category classification of food items.
 
+## The description of the code
+
+Although the transactionn data cannot be made publicly available, data processing scripts and notebooks containing analysis and plotting are available in */code* folder.
+
 ## Reference
 
 Please cite the paper when using the data:
