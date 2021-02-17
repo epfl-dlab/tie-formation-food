@@ -8,7 +8,7 @@ This repository contains publicly available data and code for paper "Formation o
 
 In file */data/healthiness_annotations.xlsx*, the annotations of healthiness are available (0: likely to be healthy, 1: likely to be unhealthy, 2: unclassifiable).
 
-### 2. Food item ctegorization.
+### 2. Food item categorization.
 
 ## Reference
 
