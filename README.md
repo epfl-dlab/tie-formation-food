@@ -2,6 +2,11 @@
 
 This repository contains publicly available data and code for paper "Formation of Social Ties Influences Food Choice: A Campus-wide Longitudinal Study".
  
+## The description of the data
+
+### 1. Healthiness annotations.
+
+### 2. Food item ctegorization.
 
 ## Reference
 
