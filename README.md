@@ -10,6 +10,8 @@ In file */data/healthiness_annotations.xlsx*, the annotations of healthiness are
 
 ### 2. Food item categorization.
 
+File */data/categories.csv* contains category classification of food items.
+
 ## Reference
 
 Please cite the paper when using the data:
